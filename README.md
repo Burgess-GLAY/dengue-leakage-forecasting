@@ -1,5 +1,7 @@
 # Leakage-controlled tree-ensemble forecasting of dengue incidence (Brazil, OpenDengue V1.3)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24358097.svg)](https://doi.org/10.5281/zenodo.24358097)
+
 Code, data and results for the article
 
 > B. A. Glay, "Leakage-Controlled Tree-Ensemble Forecasting of Dengue Incidence Under Distribution Shift,"
@@ -65,4 +67,6 @@ Regimes: A rolling-origin 2019-2024; B train on targets before 2022, test 2022-2
 Code: MIT (see `LICENSE`). Data and derived tables: CC BY 4.0, following the OpenDengue source licence.
 
 ## Citation
-Please cite the article above and the OpenDengue sources. Citation metadata for this repository are in `CITATION.cff`.
+Please cite the article above and the OpenDengue sources. This repository (release v1.0) is archived on Zenodo:
+B. A. Glay, "Code and data for: Leakage-Controlled Tree-Ensemble Forecasting of Dengue Incidence Under Distribution Shift," v1.0, Zenodo, 2026, doi: 10.5281/zenodo.24358097.
+Citation metadata are in `CITATION.cff`.

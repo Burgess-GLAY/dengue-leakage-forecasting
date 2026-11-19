@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article listed under preferred-citation, and the OpenDengue database."
+title: "Code and data for: Leakage-Controlled Tree-Ensemble Forecasting of Dengue Incidence Under Distribution Shift"
+type: software
+authors:
+  - family-names: Glay
+    given-names: Burgess Awalayah
+    orcid: "https://orcid.org/0009-0004-2153-2695"
+    affiliation: "Nanjing University of Posts and Telecommunications"
+version: "1.0"
+date-released: "2026-11-19"
+license: MIT
+repository-code: "https://github.com/Burgess-GLAY/dengue-leakage-forecasting"
+abstract: >-
+  Code, the harmonised Brazil state-week dengue panel (26 states, 2014-2024,
+  derived from OpenDengue V1.3) and all result tables for a leakage-controlled
+  forecasting study of weekly dengue incidence. Persistence, seasonal-naive,
+  ARIMA(2,1,1) and ridge-autoregression baselines are compared with Random
+  Forest and XGBoost at 1, 2 and 4 weeks ahead under three validation regimes
+  (rolling-origin, a declared 2022-2024 distribution shift, and unseen states),
+  together with an outbreak-alert classifier and grouped SHAP and permutation
+  attribution. Includes the supplementary analyses requested in peer review.
+keywords:
+  - dengue
+  - time-series forecasting
+  - data leakage
+  - distribution shift
+  - gradient boosting
+  - random forest
+  - XGBoost
+  - SHAP
+  - epidemiological surveillance
+  - Brazil
+references:
+  - type: article
+    title: "A global dataset of publicly available dengue case count data"
+    authors:
+      - family-names: Clarke
+        given-names: J.
+      - family-names: Lim
+        given-names: A.
+      - family-names: Gupte
+        given-names: P.
+      - family-names: Pigott
+        given-names: D. M.
+      - family-names: van Panhuis
+        given-names: W. G.
+      - family-names: Brady
+        given-names: O. J.
+    journal: "Scientific Data"
+    volume: 11
+    issue: 1
+    start: 296
+    year: 2024
+    doi: "10.1038/s41597-024-03120-7"
+  - type: data
+    title: "OpenDengue: data from the OpenDengue database (release V1.3)"
+    authors:
+      - name: "OpenDengue project"
+    year: 2025
+    doi: "10.6084/m9.figshare.24259573.v4"
+    url: "https://github.com/OpenDengue/master-repo"
+preferred-citation:
+  type: article
+  title: "Leakage-Controlled Tree-Ensemble Forecasting of Dengue Incidence Under Distribution Shift"
+  authors:
+    - family-names: Glay
+      given-names: Burgess Awalayah
+      orcid: "https://orcid.org/0009-0004-2153-2695"
+  journal: "Latin-American Journal of Computing (LAJC)"
+  volume: 14
+  issue: 1
+  year: 2027

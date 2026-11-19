@@ -1,0 +1,11 @@
+h,group,mean_abs_shap_group,mean_abs_shap_sum_features
+1,Current level (lags 0-3),0.021824876,0.07132729
+1,"Longer memory (lags 4-7, 4/8-wk means)",0.039027613,0.060682226
+1,Momentum (1/4-wk change),0.04557192,0.059013966
+1,Prior-year same week,0.027227994,0.027227994
+1,Calendar (week-of-year),0.0638785,0.074772775
+4,Current level (lags 0-3),0.030785,0.06414727
+4,"Longer memory (lags 4-7, 4/8-wk means)",0.17142725,0.1986536
+4,Momentum (1/4-wk change),0.09253246,0.11616382
+4,Prior-year same week,0.08990839,0.08990839
+4,Calendar (week-of-year),0.21681486,0.29502395

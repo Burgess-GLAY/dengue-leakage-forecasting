@@ -1,0 +1,31 @@
+h,year,group,val
+1,2022,Current level (lags 0-3),0.02858688
+1,2023,Current level (lags 0-3),0.019845482
+1,2024,Current level (lags 0-3),0.01689055
+1,2022,"Longer memory (lags 4-7, 4/8-wk means)",0.039432537
+1,2023,"Longer memory (lags 4-7, 4/8-wk means)",0.033419803
+1,2024,"Longer memory (lags 4-7, 4/8-wk means)",0.04455076
+1,2022,Momentum (1/4-wk change),0.04829787
+1,2023,Momentum (1/4-wk change),0.048997648
+1,2024,Momentum (1/4-wk change),0.039105643
+1,2022,Prior-year same week,0.028624339
+1,2023,Prior-year same week,0.027765563
+1,2024,Prior-year same week,0.025205968
+1,2022,Calendar (week-of-year),0.0636808
+1,2023,Calendar (week-of-year),0.069261305
+1,2024,Calendar (week-of-year),0.058378354
+4,2022,Current level (lags 0-3),0.03570132
+4,2023,Current level (lags 0-3),0.029626118
+4,2024,Current level (lags 0-3),0.02665249
+4,2022,"Longer memory (lags 4-7, 4/8-wk means)",0.16797988
+4,2023,"Longer memory (lags 4-7, 4/8-wk means)",0.1376283
+4,2024,"Longer memory (lags 4-7, 4/8-wk means)",0.21335503
+4,2022,Momentum (1/4-wk change),0.09749575
+4,2023,Momentum (1/4-wk change),0.08484021
+4,2024,Momentum (1/4-wk change),0.09571541
+4,2022,Prior-year same week,0.09796875
+4,2023,Prior-year same week,0.08990801
+4,2024,Prior-year same week,0.080990985
+4,2022,Calendar (week-of-year),0.221302
+4,2023,Calendar (week-of-year),0.2239235
+4,2024,Calendar (week-of-year),0.20383427
